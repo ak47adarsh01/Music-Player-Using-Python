@@ -8,9 +8,7 @@ It is a simple MP3 Player based on python application made using the pygame and 
 
 You can play / pause, next / previous MP3 songs at the same time increase and decrease volume
 
-## How to Download
 
-Download this project from here [Download Adarsh's - Music Player](https://downgit.github.io/#/home?url=https://github.com/ak47adarsh01/Music-Player-Using-Python)
 
 ## Requirements
 
